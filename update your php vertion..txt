@@ -1,0 +1,7 @@
+To continue the newsportal project 
+
+php vwertion need to be - 8.1.2
+
+AND 
+
+Composer version need to be : - 2.7.1
